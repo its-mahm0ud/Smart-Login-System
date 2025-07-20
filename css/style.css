@@ -1,0 +1,45 @@
+
+
+body{
+    background-color: #24353f;
+}
+.box-login{
+     /* background-color: #1f282e; */
+     box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.inner-box-login{
+    color:#17a2b8;
+}
+.inner-box-login input::placeholder{
+    color:rgb(165, 163, 163);
+}
+
+
+.btn{
+    color: #17a2b8 !important;
+    /* border-color: #17a2b8 !important; */
+}
+#signinButton:hover{
+    color: white !important;
+    background-color:  rgba(23, 162, 184, 1)!important;
+}
+.head-login{
+    font-size: 25px;
+    color: white;
+}
+.input-login.btn{
+    margin-left: auto;
+    margin-bottom: 5px;
+    border-color: yellow;
+    background-color: #24353f;
+
+}
+.input-login.btn:hover{
+    background-color: yellow;
+}
+.nav{
+    margin-top: 20px;
+}
+.container-fluid{
+    box-shadow: 0 5px 5px 2px rgb(36, 33, 33);
+}
